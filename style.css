@@ -1,0 +1,26 @@
+/* For Webkit based browsers */
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+.main-box-item .box-item{
+  display: none;
+}
+.main-box-item .changes{
+  display: block;
+}
+.main-btn-tablinks .change{
+  background-color: aqua;
+}
